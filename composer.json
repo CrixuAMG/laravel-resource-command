@@ -1,0 +1,14 @@
+{
+    "name": "christian/laravel-resource-command",
+    "description": "Based on https://github.com/amochohan/laravel-make-resource",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Christian",
+            "email": "christian@freshapple.nl"
+        }
+    ],
+    "require": {
+        "php": "^7.0"
+    }
+}
